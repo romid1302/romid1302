@@ -22,5 +22,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=romid1302&show_icons=true" />
 </picture>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=romid1302" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=romid1302&theme=soft-green" alt="GitHub Streak" /></a>
 </div>
