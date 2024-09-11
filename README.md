@@ -5,7 +5,7 @@
 
 <h3>🤝🏻 Connect, Follow</h3>
 <a href = "https://www.linkedin.com/in/deepanshu-kumar-46b159217/"/>
-<img height="40px" width="60px" src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png"/>
+<img height="30px" width="60px" src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png"/>
 
 </img>
 </a>
