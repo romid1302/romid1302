@@ -4,7 +4,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=12D28F&width=435&lines=Full+Stack+Web+Developer..." alt="Typing SVG" /></a>
 
 <h3>🤝🏻 Connect, Follow</h3>
-<a href = "https://www.linkedin.com/in/deepanshu-kumar-46b159217/"/></a>
+<a href = "https://www.linkedin.com/in/deepanshu-kumar-46b159217/"/>
+<img src="https://freelogopng.com/images/all_img/1656958733linkedin-logo-png.png"/>
+
+</img>
+</a>
+
 
 
 
