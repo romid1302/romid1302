@@ -1,12 +1,4 @@
 <h1>Hi there, I'm Deepanshu Kumar</h1>
 
 <h3>I am a </h3>
-  <Typewriter
-            words={['Full Stack Developer!', 'React Enthusiast!', 'Tech Blogger!']}
-            loop={5}
-            cursor
-            cursorStyle='_'
-            typeSpeed={70}
-            deleteSpeed={50}
-            delaySpeed={1000}
-          />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
